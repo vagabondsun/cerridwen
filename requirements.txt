@@ -15,6 +15,6 @@ pyasn1==0.1.9
 pycparser==2.19
 pyinotify==0.9.6
 pyOpenSSL==18.0.0
-pyswisseph==2.0.0.post2
+pyswisseph==2.8.0.post0
 six==1.10.0
 Werkzeug==0.14.1
